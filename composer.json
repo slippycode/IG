@@ -1,0 +1,13 @@
+{
+    "name": "slippy/ig",
+    "description": "Instagram Downloaders",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Slippy Code",
+            "email": "slippy.code@gmail.com"
+        }
+    ],
+    "require": {}
+}
